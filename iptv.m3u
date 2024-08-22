@@ -1,0 +1,170 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="zee",Zee TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=tvhd
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="zee",&tv HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=andtvhd
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="zee",&Xplor HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=andxplorehd
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="zee",&pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=andpictureshd
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="zee",Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=cinemahd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",&flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=andflixhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="zee",Zee Zest HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=zesthd
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png" group-title="zee",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=bigmagic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/2880px-%26priv%C3%A9_HD.svg.png" group-title="zee",&prive HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=privehd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="zee",Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=action
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="zee",Zee Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=bollywood
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png" group-title="zee",Zee Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=anmolcinema
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="zee",Zee Cafe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=cafehd
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="zee",Zee Anmol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=anmol
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49009-k5g6nid4-v1/imageContent-49009-k5g6nid4-m1.png" group-title="zee",Zee Punjabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee.php?id=punjabi
+#EXTINF: -1,Zee Tamil 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
+#EXTINF: -1,Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF: -1,Zee tv
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+#EXTINF: -1,&pictures
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF: -1,&tv
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+#EXTINF: -1,Zee Talkies
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
+#EXTINF: -1,Zee Cinemalu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
+#EXTINF: -1,Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+#EXTINF: -1,Zee Kannada
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/zeekannada1.m3u8
+#EXTINF: -1,Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+#EXTINF: -1,Zee bangla 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
+#EXTINF: -1,Zee Tamil 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
+#EXTINF: -1,Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF: -1,Zee tv
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+#EXTINF: -1,&pictures
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF: -1,&tv
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+#EXTINF: -1,Zee Talkies
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
+#EXTINF: -1,Zee Cinemalu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
+#EXTINF: -1,Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+#EXTINF: -1,Zee Kannada
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/zeekannada1.m3u8
+#EXTINF: -1,Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+#EXTINF: -1,Zee bangla 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
+#EXTINF: -1,🏏IRE w🆚SL w🏏🔗india🏏🏏
+https://dai.google.com/linear/hls/event/K1uYsmeLQsSdT3CpLOouXA/master.m3u8
+#EXTINF: -1,🔗Worldwide🏏🏏
+https://pubads.g.doubleclick.net/ssai/event/K1uYsmeLQsSdT3CpLOouXA/master.m3u8
+#EXTINF: -1,Star plus 
+http://217.20.112.199/starplushd/index.m3u8
+#EXTINF: -1,Star gold (Wuffy player)
+http://217.20.112.199/stargold/index.m3u8
+#EXTINF: -1,Star gold 2 (Wuffy player)
+http://217.20.112.199/stargold2/index.m3u8
+#EXTINF: -1,ZEE PICCHAR
+http://iptvtree.net:8080/live/F18819/6eb39c7d/192201.ts
+#EXTINF: -1,ZEST
+http://tv.cloudcdn.me/live.ts?channelId=29704&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF: -1,Talkies
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
+#EXTINF: -1,Cinemalu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
+#EXTINF: -1,Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+#EXTINF: -1,Kannada
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/zeekannada1.m3u8
+#EXTINF: -1,Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+#EXTINF: -1,Tamil ZEE
+http://tv.cloudcdn.me/live.ts?channelId=43423&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF: -1,Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF: -1,Zee Tv
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+#EXTINF: -1,&pictures
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF: -1,&tv
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+#EXTINF: -1,Maa Movies
+http://116.202.46.40:9023/STAR_MAA_MOVIES_TELUGU/index.m3u8
+#EXTINF: -1,Maa 
+http://tv.cloudcdn.me/live.ts?channelId=43458&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF: -1,Maa Gold
+http://tv.cloudcdn.me/live.ts?channelId=43457&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF: -1,Star movies
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF: -1,Star gold 
+http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
+#EXTINF: -1,Sony max 
+http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
+#EXTINF: -1,Vijay super 
+http://116.202.46.40:789/VIJAY_SUPER_TAMIL/index.m3u8
+#EXTINF: -1,KTV tamil 
+http://116.202.46.40:789/KTV_TAMIL/index.m3u8
+#EXTINF: -1,Chutti TV 
+http://14.102.123.50:5001/live/557.m3u8
+#EXTINF: -1,Pogo Tamil 
+http://14.102.123.50:5001/live/542.m3u8
+#EXTINF: -1,Colors HD
+https://drmlive.in/jiocinema/198.m3u8
+#EXTINF: -1,Utsav plus
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B4:B7:6E&stream=267589&extension=ts
+#EXTINF: -1,BBO classic
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B4:B7:6E&stream=87322&extension=ts
+#EXTINF: -1,Disney Jr (5.1)
+http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
+#EXTINF: -1,Nickelodeon
+https://fl2.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF: -1,Nick Jr
+http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF: -1,HBO
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF: -1,HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF: -1,Lifetime
+http://212.102.60.231/LIFETIME/index.m3u8
+#EXTINF: -1,FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF: -1,FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF: -1,Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF: -1,Sooriyan TV
+https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
